@@ -2,9 +2,9 @@
 source "https://rubygems.org"
 
 #don't upgrade
-gem "rails", "6.0.0"
+gem "rails", "6.0.6"
 
-ruby "2.6.5"
+ruby "2.7.5"
 
 gem "aruba"
 gem "bcrypt"
